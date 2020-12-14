@@ -1,0 +1,4 @@
+- name: Android CI/CD
+  # You may pin to the exact commit or the version.
+  # uses: henrikhorbovyi/Android-CI-CD@630b451bc0bea1e6fc44f138443487aa83d3675f
+  uses: henrikhorbovyi/Android-CI-CD@v0.0.1-beta5
